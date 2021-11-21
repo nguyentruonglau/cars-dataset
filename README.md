@@ -34,9 +34,9 @@ In this repository, we provide you a sample data for Object Detection problem, w
 
 ## Example
 
-Video for stream you will get at [here](https://www.youtube.com/watch?v=MNn9qKG2UFI).
+Video for stream you will get at [here](https://www.youtube.com/watch?v=MNn9qKG2UFI). Here is result after we training and testing with this dataset.
 
-![](https://github.com/nguyentruonglau/cars-on-road/blob/main/images/sample.jpg)
+![](https://github.com/nguyentruonglau/cars-on-road/blob/main/images/result.jpg)
 
 ## Reference
 [1]. 4K Road traffic video for object detection and tracking
