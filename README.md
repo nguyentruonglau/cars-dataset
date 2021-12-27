@@ -1,7 +1,7 @@
 ﻿# CARS DATASET
 
 
-# cars-on-road [![CircleCI](https://circleci.com/gh/faustomorales/keras-ocr.svg?style=shield)](https://github.com/nguyentruonglau) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau)
+# cars-on-road [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Documentation Status](https://readthedocs.org/projects/keras-ocr/badge/?version=latest)](https://github.com/nguyentruonglau)
 
  The Car Dataset contains 100 images of 1 classes of car. The data is split into 91 training images and 9 testing images, where the class has been split roughly in a 9-1 split (about number of car in total images).
 
